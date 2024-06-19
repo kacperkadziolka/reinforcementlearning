@@ -1,3 +1,7 @@
+# Personal project stuff
+**/vectors/
+**/figures/**/**.npy
+
 # PyCharm generates
 .idea
 

@@ -1,0 +1,9 @@
+gym==0.21.0
+torch==2.2.2
+swig==4.2.1
+numpy~=1.26.4
+tqdm~=4.66.2
+matplotlib~=3.8.4
+scipy~=1.13.0
+
+# (after installing swig and gym: pip install gym[box2d] - this is required to be able to work with LunarLander env
